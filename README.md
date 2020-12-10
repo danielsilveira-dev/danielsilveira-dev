@@ -4,6 +4,7 @@ Fique à vontade!
 
 Me chamo **Daniel Silveira**, trabalho com tecnologia desde 2007.  
 Me encantei pelo Desenvolvimento Web, quando ainda chamavam Front-end de "Web Master"(2013).  
+
 Hoje, procuro uma oportunidade de crescer, tanto como pessoa e também profissionalmente, com o que mais amo estudar, Desenvolvimento Front-end!    
 
 - 🌱 Hoje, estou cursando muito feliz a graduação em **Sistemas para Internet**!👨‍💻
