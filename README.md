@@ -20,12 +20,12 @@ Hoje, procuro uma oportunidade de crescer, tanto como pessoa e também profissio
 </p>
 
 <h3 align="left">Skills</h3>
-- HTML5  
-- CSS3  
-- JAVASCRIPT  
-- GITHUB  
-- FIGMA  
-- PHOTOSHOP  
+- HTML5<br/>  
+- CSS3<br/>
+- JAVASCRIPT<br/>
+- GITHUB<br/>
+- FIGMA<br/>
+- PHOTOSHOP<br/>
 - LINUX
  
 
