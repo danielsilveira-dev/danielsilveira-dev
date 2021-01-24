@@ -20,13 +20,13 @@ Hoje, procuro uma oportunidade de crescer, tanto como pessoa e também profissio
 </p>
 
 <h3 align="left">Skills</h3>
- - HTML5
- - CSS3
- - JAVASCRIPT
- - GITHUB
- - FIGMA
- - PHOTOSHOP
- - LINUX
+- HTML5
+- CSS3
+- JAVASCRIPT
+- GITHUB
+- FIGMA
+- PHOTOSHOP
+- LINUX
  
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=danielsilveira-dev&show_icons=true&locale=en" alt="danielsilveira-dev" /></p>
