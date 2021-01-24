@@ -22,6 +22,8 @@ Hoje, procuro uma oportunidade de crescer, tanto como pessoa e também profissio
 <h3 align="left">Skills</h3>
 - HTML5<br/>  
 - CSS3<br/>
+- SASS<br/>
+- BEM<br/>
 - JAVASCRIPT<br/>
 - GITHUB<br/>
 - FIGMA<br/>
