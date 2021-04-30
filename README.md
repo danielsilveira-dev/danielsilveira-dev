@@ -5,7 +5,6 @@ Encantado pelo Desenvolvimento Web
 
 - 🌱 Hoje, estou cursando a graduação em **Sistemas para Internet**!👨‍💻
 - 🌱 Focando meus estudos em JavaScript
-- 🌱 Estudando o React + Next.js no evento Next Level Week 5!
 -  Nas horas vagas, gosto de jogar, ler &#128218; e tocar baixo &#127928;
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=danielsilveira-dev&label=Profile%20views&color=0e75b6&style=flat" alt="danielsilveira-dev" /> </p>
 <h2 align="left">Contato</h2>
