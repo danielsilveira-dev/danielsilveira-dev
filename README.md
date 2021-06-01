@@ -6,7 +6,7 @@ Encantado pelo Desenvolvimento Web
 - 🌱 Hoje, estou cursando 2º Semestre da graduação em **Sistemas para Internet**!👨‍💻
 - 🌱 Focando meus estudos em JavaScript / POO
 - Criando meu [Portfolio](https://danielsilveira-dev.github.io)!
--  Nas horas vagas, gosto de assistir séries, jogar, ler &#128218; e tocar baixo &#127928;
+-  Nas horas vagas, gosto de assistir séries com a família, jogar, ler &#128218; e tocar baixo &#127928;
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=danielsilveira-dev&label=Profile%20views&color=0e75b6&style=flat" alt="danielsilveira-dev" /> </p>
 <h2 align="left">Contato</h2>
 <p align="left">
