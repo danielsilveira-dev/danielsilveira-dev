@@ -3,7 +3,7 @@
 Me chamo **Daniel Silveira**, trabalho com tecnologia desde 2007.  
 Encantado pelo Desenvolvimento Web   
 
-- 🌱 Hoje, estou cursando 2º Semestre da graduação em **Sistemas para Internet**!👨‍💻
+- 🌱 Hoje, estou cursando 3º Semestre da graduação em **Sistemas para Internet**!👨‍💻
 - 🌱 Focando meus estudos em JavaScript / POO
 - Criando meu [Portfolio](https://danielsilveira-dev.github.io)!
 -  Nas horas vagas, gosto de assistir séries com a família, jogar, ler &#128218; e tocar baixo &#127928;
