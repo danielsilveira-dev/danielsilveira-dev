@@ -10,7 +10,7 @@ Encantado pelo Desenvolvimento Web
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=danielsilveira-dev&label=Profile%20views&color=0e75b6&style=flat" alt="danielsilveira-dev" /> </p>
 <h2 align="left">Contato</h2>
 <p align="left">
-	<a href="https://api.whatsapp.com/send?phone=5548999159246" target="blank"><img align="center" src="https://www.flaticon.com/svg/static/icons/svg/152/152740.svg" alt="Meu whatsapp" height="30" width="40" /></a>
+	<a href="https://api.whatsapp.com/send?phone=5548999159246" target="blank"><img align="center" src="https://cdn-icons-png.flaticon.com/512/154/154858.png" alt="Meu whatsapp" height="30" width="40" /></a>
 <a href="https://codepen.io/danielsilveira-dev" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codepen.svg" alt="danielsilveira-dev" height="30" width="40" /></a>
 <a href="https://dev.to/danielsilveiradev" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg" alt="danielsilveiradev" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/daniel-silveira-66688674/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="https://www.linkedin.com/in/daniel-silveira-66688674/" height="30" width="40" /></a>
