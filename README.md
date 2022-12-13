@@ -3,8 +3,8 @@
 Me chamo **Daniel Silveira**, trabalho com tecnologia desde 2007.  
 Encantado pelo Desenvolvimento Web   
 
-- 🌱 Hoje, estou cursando 3º Semestre da graduação em **Sistemas para Internet**!👨‍💻
-- 🌱 Focando meus estudos em JavaScript / POO
+- 🌱 Hoje, estou terminando a graduação em **Sistemas para Internet**!👨‍💻
+- 🌱 Focando meus estudos em JavaScript  
 - Criando meu [Portfolio](https://danielsilveira-dev.github.io)!
 -  Nas horas vagas, gosto de assistir séries com a família, jogar, ler &#128218; e tocar baixo &#127928;
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=danielsilveira-dev&label=Profile%20views&color=0e75b6&style=flat" alt="danielsilveira-dev" /> </p>
