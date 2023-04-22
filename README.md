@@ -4,8 +4,11 @@ Me chamo **Daniel Silveira**, trabalho com tecnologia desde 2007.
 Encantado pelo Desenvolvimento Web   
 
 - 🌱 Terminando a graduação em **Sistemas para Internet**!👨‍💻
-- 🌱 Focando meus estudos em JavaScript!
-- Criando meu [Portfolio](https://danielsilveira-dev.github.io)!
+- 🌱 Focando meus estudos em JavaScript!  
+
+➡️➡️➡️Vamos de mais um [NLW](https://www.rocketseat.com.br/nlw?referralId=daniel-8421)!⬅️⬅️⬅️  
+
+- Link do meu [Portfolio](https://danielsilveira-dev.github.io)!
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=danielsilveira-dev&label=Profile%20views&color=0e75b6&style=flat" alt="danielsilveira-dev" /> </p>
 <h2 align="left">Contato</h2>
 <p align="left">
