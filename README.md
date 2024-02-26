@@ -1,9 +1,9 @@
 # Seja bem vindo! =) 👋  
 
 Me chamo **Daniel Silveira**, trabalho com tecnologia desde 2007.  
-Encantado pelo Desenvolvimento Web   
+A cada dia mais encantado por desenvolvimento web!   
 
-- 🌱 Terminando a graduação em **Sistemas para Internet**!👨‍💻
+- 🌱 Formado em **Sistemas para Internet**!
 - 🌱 Focando meus estudos em JavaScript!  
 - Link do meu [Portfolio](https://danielsilveira-dev.github.io)!
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=danielsilveira-dev&label=Profile%20views&color=0e75b6&style=flat" alt="danielsilveira-dev" /> </p>
